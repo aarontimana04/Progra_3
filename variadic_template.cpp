@@ -43,3 +43,12 @@ int main() {
 
     return 0;
 }
+
+
+// E1
+// Implementa sumarTodo que reciba múltiples argumentos y retorne la suma total usando recursividad.
+
+
+
+// E2
+// Crea una función maximo que reciba múltiples argumentos y retorne el mayor valor usando variadic templates con recursividad.
